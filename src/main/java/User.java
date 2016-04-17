@@ -3,6 +3,7 @@ package main.java;
 import java.util.List;
 
 public class User {
+    
     private Subscription subscription;
     private Timeline timeline;
 

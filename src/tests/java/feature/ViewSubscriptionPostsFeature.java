@@ -14,7 +14,6 @@ import static org.mockito.Mockito.*;
 public class ViewSubscriptionPostsFeature {
 
     @Mock Presenter presenter;
-
     private User leo;
     private User nikesh;
     private User spike;

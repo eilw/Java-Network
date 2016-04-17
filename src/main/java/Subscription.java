@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Subscription {
+
     private List<User> following;
     private Feed feed;
 

@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Timeline {
+
     private Presenter presenter;
     private List<String> posts;
 
