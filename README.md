@@ -27,7 +27,8 @@ I used: Intellij, JUnit and Mockito
 
 ## Example of functionality
 ```
----- various initialisation of subscription and timeline above ---
+---- initialisation of subscription and timeline completed above ---
+
 leo = new User(leoSubscriptions, leoTimeline);
 nikesh = new User(nikeshSubscriptions, nikeshTimeline);
 spike = new User(spikeSubscriptions, spikeTimeline);
