@@ -16,9 +16,6 @@ import static org.mockito.Mockito.verify;
 
 @RunWith(MockitoJUnitRunner.class)
 
-
-
-
 public class FeedTest {
     @Mock User user;
     private Feed feed;
